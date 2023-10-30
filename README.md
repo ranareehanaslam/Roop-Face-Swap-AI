@@ -1,6 +1,6 @@
 # Roop Face Swap Deep Fake
 
-![Open In Colab](https://colab.research.google.com/github/ranareehanaslam/Roop-Face-Swap-AI/blob/main/Roop_Face_Swap_Deep_Fake.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ranareehanaslam/Roop-Face-Swap-AI/blob/main/Roop_Face_Swap_Deep_Fake.ipynb)
 
 Welcome to the Roop Face Swap Deep Fake project! This README will guide you through the process of using this notebook to create deep fake videos with face swapping. Whether you're a curious enthusiast or a developer looking to explore the world of deep learning and artificial intelligence, this project has something for everyone.
 
