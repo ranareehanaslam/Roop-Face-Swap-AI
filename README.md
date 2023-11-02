@@ -15,7 +15,7 @@ Before you get started, check out our [Demo Video](https://youtu.be/0RqWRB1vo_c)
 ## Project Links
 
 - [Github Profile](https://github.com/ranareehanaslam): Visit our GitHub profile for updates and more AI projects.
-- [Youtube Channel](https://www.youtube.com/@RajExperts): Explore our YouTube channel for video tutorials and demonstrations.
+- [Youtube Channel](https://www.youtube.com/@ranareehanaslam): Explore our YouTube channel for video tutorials and demonstrations.
 
 ## Getting Started
 
